@@ -22,11 +22,14 @@
 			flex: 2;
 			display: flex;
 			align-items: center;
-			justify-content: center;
-			text-align: center;
+			justify-content: left;
+			text-align: left;
 
 			h1 {
-				font-size: 20px;
+				margin-left: 10px;
+
+				font-size: 25px;
+				font-weight: 1000;
 			}
 		}
 	}
