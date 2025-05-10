@@ -1,7 +1,5 @@
 # 📝 My First Angular Project – Blog App
 
-![Angular Logo](https://angular.io/assets/images/logos/angular/angular.svg)
-
 [![Made with Angular](https://img.shields.io/badge/Made%20with-Angular-DD0031?logo=angular)](https://angular.io/)
 [![Status](https://img.shields.io/badge/status-in%20progress-yellow)]()
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)]()
