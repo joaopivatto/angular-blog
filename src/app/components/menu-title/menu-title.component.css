@@ -1,12 +1,13 @@
 .container-menu-title {
 	h1 {
 		margin: 10px 0;
-		font-size: 80px;
+		font-size: 60px;
 		font-weight: bold;
 		display: flex;
 		justify-content: center;
 		flex-wrap: wrap;
 		text-align: center;
+
 	}
 
 	hr {
